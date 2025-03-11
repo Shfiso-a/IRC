@@ -1,4 +1,4 @@
-# BetaIRC - Custom IRC Protocol Implementation
+# BetaIRC - IRC client and server
 
 A modern IRC (Internet Relay Chat) server and client
 
