@@ -111,17 +111,17 @@ Hello everyone! I'm new here.
 
 Send a private message:
 ```
-/msg alice Hey Alice, how are you doing?
+/msg alex Hey Alex, how are you doing?
 ```
 
 Change your nickname:
 ```
-/nick SuperUser
+/nick God
 ```
 
 Get information about a user:
 ```
-/whois bob
+/whois fiso
 ```
 
 ## Advanced Setup
