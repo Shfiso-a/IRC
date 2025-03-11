@@ -1,10 +1,9 @@
 # BetaIRC - Custom IRC Protocol Implementation
 
-A modern IRC (Internet Relay Chat) server and client implementation with a custom protocol built on JSON messages.
+A modern IRC (Internet Relay Chat) server and client
 
 ## Features
 
-- JSON-based message protocol
 - Multiple channels with user management
 - Private messaging
 - Channel topics
@@ -12,10 +11,6 @@ A modern IRC (Internet Relay Chat) server and client implementation with a custo
 - User information and status
 - Colored terminal interface
 - Message history for channels
-
-## Protocol Specification
-
-BetaIRC uses a custom protocol with JSON-formatted messages for all communication between the server and clients. This provides structured data while maintaining human readability.
 
 ### Message Format
 
