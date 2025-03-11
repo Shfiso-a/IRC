@@ -1,0 +1,16 @@
+{
+    "host": "0.0.0.0",
+    "port": 6969,
+    "log_level": "INFO",
+    "admins": ["admin", "moderator"],
+    "default_channels": {
+        "#general": {
+            "topic": "General discussion channel",
+            "permanent": true
+        },
+        "#help": {
+            "topic": "Get help with server commands",
+            "permanent": true
+        }
+    }
+} 
